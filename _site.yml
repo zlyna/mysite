@@ -1,0 +1,11 @@
+name: "yuslina-website"
+output_dir: "."
+navbar:
+  title: "Yuslina's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "R Tutorial"
+      href: Rtutorial.html
+    - text: "About Me"
+      href: about.html
