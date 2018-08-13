@@ -2,4 +2,9 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Yuslina
+- __Position:__ Lecturer
+- __Affiliation:__ Faculty of Pharmacy, UiTM
+- __Courses Taught:__ Pharmaceutical Biostatistics, Research Methodology
+
+![](my.jpg)
